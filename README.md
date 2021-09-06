@@ -5,7 +5,7 @@ A 2048 Game made with html,css and javascript.2048 is a single-player sliding ti
 No packages or libraries are needed.
 
 ## DESCRIPTION
-####The rules of the game are as follows:<br/>
+<b>The rules of the game are as follows:</b><br/>
 There are some numbers on the board.<br/>
 Swipe/key press any direction (up, down, left, right) to move all tiles.<br/>
 A new tile of 2 will appear on the board after every move.<br/>
