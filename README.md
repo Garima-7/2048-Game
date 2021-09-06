@@ -1,10 +1,11 @@
 # 2048-Game
-INTRODUCTION
+
+## INTRODUCTION
 A 2048 Game made with html,css and javascript.2048 is a single-player sliding tile puzzle game.The objective of the game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048; however, one can continue to play the game after reaching the goal, creating tiles with larger numbers.
 No packages or libraries are needed.
-DESCRIPTION
-The rules of the game are as follows:
 
+## DESCRIPTION
+The rules of the game are as follows:
 There are some numbers on the board.
 Swipe/key press any direction (up, down, left, right) to move all tiles.
 A new tile of 2 will appear on the board after every move.
@@ -17,7 +18,7 @@ Navigate to throught the javascript folder to the 2048 Game folder .
 Inside the 2048 Game folder run the index.html file.
 
 
-TECH STACK USED
+## TECH STACK USED
 html
 CSS
 JavaScript
