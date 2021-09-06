@@ -19,6 +19,6 @@ Inside the 2048 Game folder run the index.html file.
 
 
 ## TECH STACK USED
-html
-CSS
-JavaScript
+html <br/>
+CSS <br/>
+JavaScript <br/>
